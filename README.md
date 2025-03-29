@@ -8,9 +8,7 @@ Stevens Camilo LLanos Acero - 20231020221
 
 Puedes descargar el archivo ZIP del proyecto desde la siguiente Release:
 
-[Descargar Proyecto ZIP](https://github.com/tu_usuario/tu_repositorio/releases/download/v1.0/tu_archivo.zip)
-
-
+[Descargar Proyecto ZIP](https://github.com/user-attachments/files/19515769/EntradaySalida.zip)
 
 # Carta de Requisitos – EntradaySalida
 
