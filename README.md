@@ -6,7 +6,10 @@ Stevens Camilo LLanos Acero - 20231020221
 
 ## Descargar Proyecto
 
-Puedes descargar el proyecto completo en formato ZIP haciendo clic en el siguiente enlace:
+Puedes descargar el archivo ZIP del proyecto desde la siguiente Release:
+
+[Descargar Proyecto ZIP](https://github.com/tu_usuario/tu_repositorio/releases/download/v1.0/tu_archivo.zip)
+
 
 
 # Carta de Requisitos – EntradaySalida
