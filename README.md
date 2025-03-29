@@ -6,7 +6,7 @@ Stevens Camilo LLanos Acero - 20231020221
 
 ## Descargar Proyecto
 
-Puedes descargar el archivo ZIP del proyecto desde la siguiente Release:
+Se puede descargar el archivo ZIP del proyecto por aqui:
 
 [Descargar Proyecto ZIP](https://github.com/user-attachments/files/19515769/EntradaySalida.zip)
 
