@@ -16,7 +16,6 @@ Puedes descargar el archivo ZIP del proyecto desde la siguiente Release:
 
 - **JDK:** Java Development Kit versión **22**
 - **IDE:** NetBeans (versión 21) o cualquier otro IDE compatible con Maven.
-- **Maven:** Utilizado para la gestión de dependencias y la construcción del proyecto.
 
 ## Dependencias y Librerías
 
