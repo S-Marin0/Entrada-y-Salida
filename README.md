@@ -10,7 +10,7 @@ Se puede descargar el archivo ZIP del proyecto por aqui:
 
 [Descargar Proyecto ZIP](https://github.com/user-attachments/files/19515769/EntradaySalida.zip)
 
-# Carta de Requisitos – EntradaySalida
+# Requisitos
 
 ## Entorno de Desarrollo
 
